@@ -14,7 +14,6 @@ const str = "哈哈哈";
   height: 400px;
   background: black;
   h1 {
-    color: white;
   }
 }
 </style>
