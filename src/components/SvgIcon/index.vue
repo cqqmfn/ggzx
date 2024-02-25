@@ -21,17 +21,17 @@ defineProps({
   color: {
     type: String,
     default: "",
-  }, 
+  },
   //接受父组件传递过来的图标宽度
   width: {
     type: String,
     default: "16px",
-  }, 
+  },
   //接受父组件传递过来的图标高度
   height: {
     type: String,
     default: "16px",
-  }, 
+  },
 });
 </script>
 
